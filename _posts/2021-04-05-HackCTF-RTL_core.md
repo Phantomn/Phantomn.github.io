@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "HackCTF RTL_core"
-subtitle: "WriteUp"
+author: "ph4nt0m"
+categories: [WriteUp, Pwnable, HackCTF]
 date: 2021-04-05 17:00
-background:
 tag: [WriteUp, HackCTF, Pwnable]
 ---
 
