@@ -38,11 +38,11 @@ social:
   email: newbiepwner@kakao.com          # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Ph4nt0mm      # change to your twitter homepage
-    - https://github.com/Phantomn       # change to your github homepage
+    #- https://twitter.com/Ph4nt0mm      # change to your twitter homepage
+    #- https://github.com/Phantomn       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/Ph4ntomn
-    - https://www.linkedin.com/in/%EC%8A%B9%ED%91%9C-%ED%99%8D-55013572
+    #- https://www.linkedin.com/in/%EC%8A%B9%ED%91%9C-%ED%99%8D-55013572
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
