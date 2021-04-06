@@ -79,7 +79,7 @@ theme_mode: dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F056180ab-659a-41a3-aaf4-e42488493b3d%2Ffacebook.jpg?table=block&id=89215088-3f07-4b6b-a3a0-791103fb97c0&width=250&userId=3eb7f197-1c8b-4c34-9ba8-81b3cf50710a&cache=v2
+avatar: /assets/img/avatar/me.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
