@@ -21,10 +21,10 @@ Rijvsmysmysmy Itovwyrc! Ns wyy ixsu Glm kq G? wc lkqc sw qwsmdlkkr sr...M ixsu f
 
 요즘세상 참 편해짐. 하지만 플래그 부분은 완전히 디코드가 안된것 같다.
 
-![1.png](../assets/img/smooth_ciphertext/1.png)
+![1.png](../../assets/img/smooth_ciphertext/1.png)
 
 그럼 저 부분만 다시 카이사르부터 ㄱㄱ지.
 
-![2.png](../assets/img/smooth_ciphertext/2.png)
+![2.png](../../assets/img/smooth_ciphertext/2.png)
 
 easy
